@@ -1,0 +1,48 @@
+@options
+@packages
+-classpath
+'D:/maven/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'D:/softwarel/eclipse-workspace/how-to-become-rich/src/main/java;D:/softwarel/eclipse-workspace/how-to-become-rich/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/softwarel/eclipse-workspace/how-to-become-rich/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'how-to-become-rich 0.0.1 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'D:/softwarel/eclipse-workspace/how-to-become-rich/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'how-to-become-rich 0.0.1 API'
+com.itranswarp.rich
+D:\maven\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar = 1681789074443
+D:\softwarel\eclipse-workspace\how-to-become-rich\src\main\java = 1711346510808
+D:\softwarel\eclipse-workspace\how-to-become-rich\target\generated-sources\annotations = 1711353575077
+D:\softwarel\eclipse-workspace\how-to-become-rich\target\apidocs\allclasses-index.html = 1711353578219
+D:\softwarel\eclipse-workspace\how-to-become-rich\target\apidocs\allpackages-index.html = 1711353578226
+D:\softwarel\eclipse-workspace\how-to-become-rich\target\apidocs\element-list = 1711353578176
+D:\softwarel\eclipse-workspace\how-to-become-rich\target\apidocs\help-doc.html = 1711353578249
+D:\softwarel\eclipse-workspace\how-to-become-rich\target\apidocs\index-all.html = 1711353578241
+D:\softwarel\eclipse-workspace\how-to-become-rich\target\apidocs\index.html = 1711353578243
+D:\softwarel\eclipse-workspace\how-to-become-rich\target\apidocs\jquery-ui.overrides.css = 1711353578281
+D:\softwarel\eclipse-workspace\how-to-become-rich\target\apidocs\member-search-index.js = 1711353578231
+D:\softwarel\eclipse-workspace\how-to-become-rich\target\apidocs\module-search-index.js = 1711353578228
+D:\softwarel\eclipse-workspace\how-to-become-rich\target\apidocs\overview-tree.html = 1711353578208
+D:\softwarel\eclipse-workspace\how-to-become-rich\target\apidocs\package-search-index.js = 1711353578229
+D:\softwarel\eclipse-workspace\how-to-become-rich\target\apidocs\script.js = 1711353578254
+D:\softwarel\eclipse-workspace\how-to-become-rich\target\apidocs\search.js = 1711353578257
+D:\softwarel\eclipse-workspace\how-to-become-rich\target\apidocs\stylesheet.css = 1711353578251
+D:\softwarel\eclipse-workspace\how-to-become-rich\target\apidocs\tag-search-index.js = 1711353578232
+D:\softwarel\eclipse-workspace\how-to-become-rich\target\apidocs\type-search-index.js = 1711353578230
